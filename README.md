@@ -53,4 +53,4 @@ List of changes made:
 
 - Added '' around Calibri in .header nav, .sectionclass, & .benefits to ensure that this font is recognised to be used if needed. 
 - Rearranged order of CSS document so that the CSS code is in the same sequential order as the webpage. 
-- Added CSS comments to each CSS rule
+- Added CSS comments to each CSS rule for explanation
