@@ -1,29 +1,30 @@
+/* Universal selector, defines borders, padding, and margins */ 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Sets background color of body */
 body {
     background-color: #d9dcd6;
 }
-
+/* Header section. Sets padding, fonts, background and text color for Header. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Sets display and font size for H1 (Horiseon)*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Adds different font color to 'Seo' class in Header (Seo in 'Horiseon')*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Sets Padding, location (right), font, and size of Nav bar (links)*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +32,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Removes dot points from links in Nav (list-style-type:none removes dot points) */
 .header nav ul {
     list-style-type: none;
 }
-
+/* Sets Nav links horizontally (inline-block) with margin of 25px  */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Sets all <a> tags to specifed color, with no text decoration */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Sets font size for all <p> tags */
 p {
     font-size: 16px;
 }
-
+/* Sets image rules for .hero class (Large image on page) */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Aligns images to left of text (Search Image Optimisation & Social Media Marketing) */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Aligns images to right of text (Online Reputation Management) */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Sets dimensions & rules for <main> content of webpage */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Sets padding, margins, font, and size of .sectionclass*/
 .sectionclass {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,16 +84,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Sets height of images with .sectionclass tag*/
 .sectionclass img {
     max-height: 200px;
 }
-
+/* Sets font size & margins of headings in .sectionclass */
 .sectionclass h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Sets dimensions, fonts, colour, and location (right) for <aside> content of webpage */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,29 +104,30 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Sets margins and color of .benefit class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Sets text alignment & margins of headings in .benefit class */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Sets size, display type & margin of images with .benefit tag*/
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* Footer section. Sets padding, fonts, and text alignment of footer. */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Sets font size of h2 in footer */
 .footer h2 {
     font-size: 20px;
 }
