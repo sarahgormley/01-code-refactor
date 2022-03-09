@@ -1,11 +1,11 @@
 # 01-code-refactor
 Horiseon Code Refactor
 
-WEBSITE LIVE URL: https://sarahgormley.github.io/Horiseon-Code-Refactor/
+WEBSITE LIVE URL: https://sarahgormley.github.io/Horiseon-Code-Refactor/  
 Website image screenshot: [Horiseon Webpage Screenshot](./images/webpage-screenshot.png)
 
-For this homework assignment, I followed the acceptance criteria to make sure that the Horiseon webpage meets accessibility requirements and is optimised for search engines. 
-To accomplish this, I ensured that the HTML used semantics, was in a logical structure, included alt tags for all images, had sequentially ordered heading attributes, and contained a descriptive title.
+For this homework assignment, I followed the acceptance criteria to make sure that the Horiseon webpage meets accessibility requirements and is optimised for search engines.  
+To accomplish this, I ensured that the HTML used semantics, was in a logical structure, included alt tags for all images, had sequentially ordered heading attributes, and contained a descriptive title.  
 
 1. Adding semantic HTML elements. 
 List of changes made: 
@@ -58,8 +58,8 @@ List of changes made:
 - Rearranged order of CSS document so that the CSS code is in the same sequential order as the webpage. 
 - Added CSS comments to each CSS rule for explanation
 
-By making the changes listed above, I was able to clean up the supplied code to make it more user-friendly and avoid repeated/unnecessary code. I was able to ensure the website meets accessibility requirements whilst ensuring it still resembles the first draft provided.
-The HTML file now contains proper HTML semantics & alt tags for all images. The code also follows the same structure that the website is shown in. 
+By making the changes listed above, I was able to clean up the supplied code to make it more user-friendly and avoid repeated/unnecessary code. I was able to ensure the website meets accessibility requirements whilst ensuring it still resembles the first draft provided.  
+The HTML file now contains proper HTML semantics & alt tags for all images. The code also follows the same structure that the website is shown in.   
 On review, the CSS file is now logically sequenced and appropriately commented for easy understanding for all users. 
 On deployment of the live URL, the site loads with nil errors. All links work properly and all images load. 
 
