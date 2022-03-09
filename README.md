@@ -1,6 +1,8 @@
 # 01-code-refactor
 01-Code-Refactor
 
+WEBSITE LIVE URL: https://sarahgormley.github.io/Horiseon-Code-Refactor/
+
 For this homework assignment, I followed the acceptance criteria to make sure that the Horiseon webpage meets accessibility requirements and is optimised for search engines. 
 To accomplish this, I ensured that the HTML used semantics, was in a logical structure, included alt tags for all images, had sequentially ordered heading attributes, and contained a descriptive title.
 
