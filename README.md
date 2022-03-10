@@ -2,10 +2,10 @@
 Horiseon Code Refactor
 
 WEBSITE LIVE URL: https://sarahgormley.github.io/Horiseon-Code-Refactor/  
-Website image screenshot: [Horiseon Webpage Screenshot](./images/webpage-screenshot.png)
+Website image screenshot: [Horiseon Webpage Screenshot](./images/webpage-screenshot.png) 
 
 For this homework assignment, I followed the acceptance criteria to make sure that the Horiseon webpage meets accessibility requirements and is optimised for search engines.  
-To accomplish this, I ensured that the HTML used semantics, was in a logical structure, included alt tags for all images, had sequentially ordered heading attributes, and contained a descriptive title.  
+To accomplish this, I ensured that the HTML used semantics, was in a logical structure, included alt tags for all images, had sequentially ordered heading attributes, and co``ntained a descriptive title.  
 
 1. Adding semantic HTML elements. 
 List of changes made: 
@@ -19,6 +19,9 @@ List of changes made:
 - Changed div & /div on line 36 & 42 to section & /section because this is one of the main sections of the webpage
 - Changed div & /div on line 43 & 49 to section & /section because this is one of the main sections of the webpage
 - Changed div & /div on line 51 & 73 to aside & /aside as this panel displays on the side of the webpage
+- Changed div & /div on line 58 & 58 to section & /section because this is one of the aside sections of the webpage
+- Changed div & /div on line 59 & 65 to section & /section because this is one of the aside sections of the webpage
+- Changed div & /div on line 66 & 72 to section & /section because this is one of the aside sections of the webpage
 - Changed div & /div on line 74 & 79 to footer & /footer as this information is inside the footer of the webpage
 
 2. Changing elements into logical structure independent of styling and positioning
